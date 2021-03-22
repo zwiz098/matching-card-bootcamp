@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Matching Card Game
 
-You can use the [editor on GitHub](https://github.com/zwiz098/matching-card-bootcamp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Welcome to the Bad Boys of Anime Matching Cards Game! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About this project
 
-### Markdown
+This fun matching game was buit using: HTML, CSS, and Java Script.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some things I struggled to accomplish with the project:
 
-```markdown
-Syntax highlighted code block
+- Creating a "match" instance and applying a win to two matching cards
+- Enabling the cards to remain visible wen matched, and invissible when not matched
+- Creating a "Shiffle card" function
 
-# Header 1
-## Header 2
-### Header 3
+Some things that I enjoyed about the project:
 
-- Bulleted
-- List
+- Creating a game with my favorite anime characters
+- Creating the win and loose text and applying CSS
 
-1. Numbered
-2. List
+# Enjoy the game and feel free to give feedback!
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zwiz098/matching-card-bootcamp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
